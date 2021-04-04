@@ -1,3 +1,2 @@
-# Progressive-Tax-Calculator-Public-Finance
-This is a C++ Program That Calculates Progressive Tax, I Created The Program As it's considered to be the most complex Calculation
-among other tax structures like proportional &amp; regressive .. All of this was discussed in Public Finance (Collage Course) 
+This Is A C++ Program That Calculates Progressive Tax, I Created The Program As It's Considered To Be The Most Complex Calculation
+Among Other Tax Structures Like Proportional Or Regressive .. All Of This Was Discussed In Public Finance (Collage Course) 
